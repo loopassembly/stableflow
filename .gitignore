@@ -49,3 +49,9 @@ next-env.d.ts
 /output/
 /screenshots/Screenshot 2026-05-12 at *.png
 /docs/goals/
+/docs/COMPETITION_MATRIX.md
+/docs/DEMO_SCRIPT.md
+/docs/FILE_MAP.md
+/docs/SOLANA_DEVNET.md
+/docs/SUBMISSION_KIT.md
+/docs/VIDEO_GUIDE.md

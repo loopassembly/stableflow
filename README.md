@@ -109,15 +109,10 @@ The local app runs at [http://localhost:3001](http://localhost:3001).
 - Decimals: `6`
 - Treasury wallet: `5ykZEE69NaDU9SfoK53MjbQ4g7Rawx1jqZtQFf6eAFfZ`
 
-## Submission and Proof Pack
+## Key Docs
 
 - [Architecture](docs/ARCHITECTURE.md)
-- [Competition Matrix](docs/COMPETITION_MATRIX.md)
-- [Demo Script](docs/DEMO_SCRIPT.md)
 - [Proof Pack](docs/PROOF_PACK.md)
-- [Submission Kit](docs/SUBMISSION_KIT.md)
-- [Video Guide](docs/VIDEO_GUIDE.md)
-- [File Map](docs/FILE_MAP.md)
 
 ## Status
 
